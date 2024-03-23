@@ -30,6 +30,9 @@ nav{
     margin-left: 5px;   
 }
                                         /* navbar button */
+.des{
+    color: red;
+}
 .button{ 
     margin-right: 20px;
     font-size: 17px;
@@ -394,21 +397,21 @@ main{
     
 }
 #card1{
-    background-image: url(image/19.jpg);
+    background-image: url(new_image/c1.jpg);
     background-position: center;
     background-size: 100%;
     
 }
 #card2{
-    background-image: url(image/20.jpg);
+    background-image: url(new_image/12.jpg);
     background-size: 100%;
 }
 #card3{
-    background-image:url(image/21.jpg) ;
+    background-image:url(new_image/13.jpg) ;
     background-size: 100%;
 }
 .card_heading{
-    color: white;
+    color: yellow;
     padding-top: 100px;
 }
 .cardpara{
